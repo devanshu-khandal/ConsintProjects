@@ -1,0 +1,9 @@
+venv/
+.Ds_Store/
+data_30.01.2024-24.06.2024.pkl
+Oct_data.pkl
+email_api.py
+DR_DB_Cred.py
+/pycache/*
+ /__pycache/*
+__pycache__/
